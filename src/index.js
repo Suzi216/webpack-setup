@@ -1,4 +1,4 @@
 // import { camelCase } from 'lodash';
-// import "./style.css";
+import "./style.css";
 
 console.log("hello world");
